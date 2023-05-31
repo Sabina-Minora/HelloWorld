@@ -1,5 +1,0 @@
-C:\Users\Сабина\Desktop\gitEducation\obj\Debug\net6.0\gitEducation.csproj.AssemblyReference.cache
-C:\Users\Сабина\Desktop\gitEducation\obj\Debug\net6.0\gitEducation.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Сабина\Desktop\gitEducation\obj\Debug\net6.0\gitEducation.AssemblyInfoInputs.cache
-C:\Users\Сабина\Desktop\gitEducation\obj\Debug\net6.0\gitEducation.AssemblyInfo.cs
-C:\Users\Сабина\Desktop\gitEducation\obj\Debug\net6.0\gitEducation.csproj.CoreCompileInputs.cache
